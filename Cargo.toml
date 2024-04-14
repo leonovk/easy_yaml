@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 categories = ["encoding", "parser-implementations"]
 authors = ["Kirill Leonov <leonov7632@gmail.com>"]
+description = "Easy work with Yaml files"
 repository = "https://github.com/leonovk/easy_yaml"
 homepage = "https://github.com/leonovk/easy_yaml"
 license = "MIT OR Apache-2.0"
