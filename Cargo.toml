@@ -5,7 +5,11 @@ edition = "2021"
 categories = ["encoding", "parser-implementations"]
 authors = ["Kirill Leonov <leonov7632@gmail.com>"]
 repository = "https://github.com/leonovk/easy_yaml"
+homepage = "https://github.com/leonovk/easy_yaml"
+license = "MIT OR Apache-2.0"
 include = [
+    "/LICENSE-APACHE",
+    "/LICENSE-MIT",
     "/Cargo.toml",
     "/README.md",
     "/src/**"
