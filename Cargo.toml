@@ -1,6 +1,6 @@
 [package]
 name = "easy_yaml"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 categories = ["encoding", "parser-implementations"]
 authors = ["Kirill Leonov <leonov7632@gmail.com>"]
